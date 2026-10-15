@@ -2,4 +2,4 @@
 
 AI Engineer · Python, LLMs, RAG, text-to-SQL, MCP
 
-[Publications](publications.md)
+[Publications](publications.md) · [Telegram](https://t.me/ulitka_dev)
